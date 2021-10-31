@@ -1,0 +1,1 @@
+This is Covid19 stats tracker project using HTML,CSS,JAVASCRIPT and using the covid API.
